@@ -9,4 +9,6 @@ $persona = [
         foreach($persona as $valor) {
             echo "$valor <br>";
         }
+echo "practicando con gitkraken"
+  
 ?>
